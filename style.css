@@ -122,7 +122,6 @@ input[type=number] {
     height: 400px;
     margin-top: 5%;
     font-size: 20px;
-    margin-bottom: 5%;
     padding-left: 30px;
     padding-right: 15px;
     border-radius: 5px;
@@ -135,18 +134,18 @@ h3 {
 
 #food-family {
 
-    background-color: rgb(235, 243, 240);
+    background-color: #EDF5F6;
     margin-left: 8%;
     margin-right: 2%;
 
 }
 
 #shelter-family {
-    background-color: rgb(249, 235, 237);
+    background-color: #FFEEEE;
 }
 
 #child-education {
-    background-color: rgb(249, 231, 206);
+    background-color: #FFF4D6;
     margin-left: 2%;
     margin-right: 8%;
 }
@@ -159,9 +158,41 @@ h3 {
     color: gray;
 }
 
+.update {
+    background-color: #FFF4D6;
+    text-align: center;
+    padding: 95px 25px;
+    margin-left: 22%;
+    margin-right: 22%;
+    margin-top: 4%;
+    font-size: 25px;
+}
+
+.email-box {
+    background-color: rgb(186, 178, 178);
+    border: none;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    width: 35%;
+    margin-right: 0;
+
+}
+
+
 footer {
     text-align: center;
-    color: red;
+    margin-top: 5%;
     padding: 25px 25px;
     background-color: rgb(27, 25, 25);
+}
+
+#foot-header {
+    color: red;
+    font-size: 30px;
+    font-family: 'Lobster', cursive;
+}
+
+#foot-pra {
+    color: white;
 }
