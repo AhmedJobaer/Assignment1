@@ -1,0 +1,39 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0;
+}
+
+.top-banner {
+    background-image: url('images/donation0.jpg');
+    background-repeat: no-repeat;
+}
+
+/* 
+h1 {
+    font-size: 50px;
+    margin-top: 10%;
+    margin-bottom: 10px;
+}
+
+
+
+
+.cover-page {
+    text-align: center;
+}
+
+p {
+    margin-bottom: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 5px;
+} */
